@@ -6,4 +6,4 @@ The danger is in a particular folder... it increases towards a leaf... the sourc
 The danger is still present, in your time, as it was in ours.
 The danger is to the mind, and it can kill.
 The form of the danger is an emanation of undocumented code.
-The danger is unleashed only if you use this software. This repository is best shunned and left uninhabited.
+The danger is unleashed only if you use this software. This repository is best shunned and left uncloned.
